@@ -7,3 +7,5 @@ console.log(hooKa);
 
 const ohIo = false;
 console.log(ohIo);
+
+alert("이거 상당히 재밌는 걸?");
